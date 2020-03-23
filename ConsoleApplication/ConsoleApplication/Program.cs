@@ -17,6 +17,7 @@ namespace ConsoleApplication
             Console.WriteLine(c);
             
             // Feature 3 added
+            // Feature 4 added
             Console.ReadLine();
         }
     }
