@@ -1,5 +1,6 @@
 ﻿using System;
 
+// this is a namespace
 namespace ConsoleApplication
 {
     // removed the comments
