@@ -10,6 +10,11 @@ namespace ConsoleApplication
         {
             // Write text to print
             Console.WriteLine("Hello World!");
+            // addition perform in below
+            int c = 10 + 5;
+
+            // chenges
+            Console.WriteLine(c);
             Console.ReadLine();
         }
     }
