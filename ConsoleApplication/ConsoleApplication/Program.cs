@@ -2,9 +2,9 @@
 
 namespace ConsoleApplication
 {
-    // removed the comments
     class Program
     {
+        // removed the comments
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
