@@ -10,7 +10,7 @@ namespace ConsoleApplication
         {
             // Write text to print
             Console.WriteLine("Hello World!");
-            // addition
+            // addition perform
             int c = 10 + 5;
             Console.WriteLine(c);
             Console.ReadLine();
