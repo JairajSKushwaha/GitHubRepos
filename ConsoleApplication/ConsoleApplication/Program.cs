@@ -15,7 +15,11 @@ namespace ConsoleApplication
 
             // chenges
             Console.WriteLine(c);
+
+           // Feature 2 added
             Console.ReadLine();
+
+
         }
     }
 }
