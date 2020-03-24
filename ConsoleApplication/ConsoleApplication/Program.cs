@@ -2,23 +2,12 @@
 
 namespace ConsoleApplication
 {
-    // Class Program
+    // removed the comments
     class Program
     {
-        // Execution start from here.
         static void Main(string[] args)
         {
-            // Write text to print
             Console.WriteLine("Hello World!");
-            // addition perform in below
-            int c = 10 + 5;
-
-            // chenges
-            Console.WriteLine(c);
-
-            
-            // Feature 3 added
-            // Feature 4 added
             Console.ReadLine();
         }
     }
