@@ -10,6 +10,7 @@ namespace ConsoleApplication
         {
             // Write text to print
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
